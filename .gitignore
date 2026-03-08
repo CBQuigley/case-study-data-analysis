@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Data files (add exceptions below if you want to track specific data)
+data/raw/
+*.csv
+*.xlsx
+*.json
